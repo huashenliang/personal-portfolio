@@ -4,8 +4,17 @@
   "description": "Dimension by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huashenliang/personal-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huashenliang/personal-portfolio/issues"
+  },
+  "homepage": "https://github.com/huashenliang/personal-portfolio#readme"
 }
